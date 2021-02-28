@@ -17,9 +17,7 @@ The project doesn't include the final map shown in the following images.
 ![12](https://user-images.githubusercontent.com/44070054/109409642-43c33a80-7973-11eb-99f8-cb8b75b1c786.png)
 ![13](https://user-images.githubusercontent.com/44070054/109409625-24c4a880-7973-11eb-944c-10d7aadd8323.png)
 
-# Here is a list of features about what you can find in this project->
-
-# ------------------------------------------------------------------------
+# Here is a list of features about what you can find in this project:
 
 # Character/Animations/Character Network:
 
