@@ -1,6 +1,8 @@
 # [Available for PC/Mouse and Keyboard] 
 # FPS Survival Game C++ Dedicated Server developed with Unreal Engine 4.25.
 
+The project doesn't include the final map shown in the following images.
+
 ![01](https://user-images.githubusercontent.com/44070054/109409500-0a3dff80-7972-11eb-8f6a-b0b2ef4b553e.png)
 ![02](https://user-images.githubusercontent.com/44070054/109409502-0f02b380-7972-11eb-9a06-72e32d63f25c.png)
 ![03](https://user-images.githubusercontent.com/44070054/109409493-fd211080-7971-11eb-8991-f96aee354f43.png)
