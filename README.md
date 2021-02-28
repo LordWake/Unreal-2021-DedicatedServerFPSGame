@@ -14,3 +14,81 @@
 ![11](https://user-images.githubusercontent.com/44070054/109409634-34dc8800-7973-11eb-92d1-3380bb60c853.png)
 ![12](https://user-images.githubusercontent.com/44070054/109409642-43c33a80-7973-11eb-99f8-cb8b75b1c786.png)
 ![13](https://user-images.githubusercontent.com/44070054/109409625-24c4a880-7973-11eb-944c-10d7aadd8323.png)
+
+# Here is a list of features about what you can find in this project->
+
+# ------------------------------------------------------------------------
+
+# Character/Animations/Character Network:
+
+Vehicles Gameplay \
+C++ Character \
+MasterPose Animation  \
+Crouch \
+Sprint \
+AimOffset Replicated \
+Blend animation per bones \
+DamageEvent\
+Damage Types\
+Recoil System\
+IK\
+FABRIK Anim BP\
+Respawn System\
+Vehicles\
+AutoEquip Clothes\
+1st and 3rd person animations\
+CameraShake (Available, not implemented)\
+Bones Damage (i.e, headshot makes more damage)\
+Consume Food (heals character)
+
+# C++:
+
+FORCEINLINE voids \
+Delegates Exposed on Blueprints \
+Friend Class \
+Network Roles 
+
+# Components/Items:
+InteractionComponent (Inherited from WidgetComponent) \
+Inventory System Component \
+DragAndDropOperation \
+Pickup system \
+Equip Gears/Clothes \
+CustomizableClothes \
+Weapon System \
+Granades or Throwable Items (Frag and Smoke) 
+
+# Widgets Blueprints:
+Tooltip Info \
+Widgets \
+Items Info (Description/Weight/Rarity/Name/Thumbnail/BodySlot/etc) \
+Inventory Filter \
+HitMarker Animation HUD \
+Compass Mark \
+Mini Map HUD \
+Main Menu \
+Widget Switcher 
+
+# GameFramework:
+Notification System \
+Player Network User Name \
+Collision Channels \
+Server PointDamage \
+Screen Mode Settings \
+Graphics Quality Settings \
+VSync Enable/Disable \
+UISound Settings \
+Game User Settings \
+Pause \
+Projectile Movement Component 
+
+# Loot:
+TargetPoints \
+Spawn Probability with DataTable \
+Spawn Loot System 
+
+# Server
+Advanced Session Plugin \
+Gamemode Seamless Travel \
+Transition Map \
+Project Launcher (Windows Game, Linux Server) 
